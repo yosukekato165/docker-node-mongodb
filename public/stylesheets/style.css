@@ -4,5 +4,16 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #00b7ff;
+}
+
+.listItem {
+  list-style-type: none;
+  background: #efefef;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.complete {
+  text-decoration: line-through;
 }
